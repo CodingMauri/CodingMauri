@@ -1,6 +1,5 @@
 # 💫 About Me:
-Software Engineer with a passion for developing engaging yet simple applications. I love pairing creativity with technology to create powerful tech-stacks and beautiful applications.
-
+Empowering visions through code, I am a Bay Area-based software developer with a passion for crafting dynamic web applications. Whether it's translating ideas into digital reality or cruising through lines of code, I thrive on the thrill of bringing concepts to life. As a dedicated motorcyclist, I navigate the digital landscape with the same precision and enthusiasm, fueled by a love for the open road and a good cup of coffee. Let's ride the waves of innovation together and brew success in every line of code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mauricioalvarenga/) 
